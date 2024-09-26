@@ -104,7 +104,6 @@
   .container {
     border-radius: 50px 0 50px 0;
     padding: $xll;
-    // background: rgb(192, 90, 255);
     background: rgb(235, 165, 36);
     @include flex(center, space-between, none);
   }
@@ -485,7 +484,8 @@ footer {
 .heroM {
   text-align: center;
   padding: $xl-6 0;
-  padding-top: $xll-3;
+  padding-top: 10px;
+  padding-bottom: $xll-3;
   height: 60vh !important;
   overflow: hidden !important;
   position: relative;

@@ -36,9 +36,13 @@ const Hero = () => {
           </div>
           <div >
           {/* <ShowCase/> */}
-            <p ><b>Buzz Recovery</b> is a trusted provider of towing and roadside assistance services throughout London and the surrounding areas. We’ve been helping drivers with fast, professional towing and vehicle recovery. Our commitment to reliability and customer satisfaction sets us apart as a leading service provider.  we specialize in fast, reliable, and affordable towing services across London and the surrounding areas. Whether your car breaks down in Central London, the outskirts, or nearby towns, our team is available 24/7 to provide expert roadside assistance and vehicle recovery services.</p>
+            <p ><b>Buzz Recovery</b> is a trusted partner for fast, reliable, and professional car recovery and roadside assistance services in London and surrounding areas. With years of experience, we specialize in towing services, fuel delivery, jump starts, tyre change and more to ensure you're never left stranded. We’re here to provide 24/7 assistance and get our customers back on the road quickly and safely. Our team is fully equipped with the latest tools and a fleet of modern recovery vehicles, ensuring that every job is handled efficiently. We take pride in offering prompt and affordable car recovery solutions, always aiming for 100% customer satisfaction.</p>
          
           </div>
+        </div>
+      
+        <div className='contact-tit'>
+        <button onClick={handleCall} className='button-primary '>Contact US</button>
         </div>
       </section>
       <Expertise />

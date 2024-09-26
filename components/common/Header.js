@@ -27,11 +27,11 @@ const Header = () => {
             <Link href='/'>
               {/* <TitleLogo title='creative' caption='7' className='logomin' /> */}
               <Image
-        src="/images/logo1.png" // path to your logo in the public directory
-        alt="Logo"
-        width={250} // width of the image
-        height={80}  // height of the image
-      />
+                src="/images/logo1.png" // path to your logo in the public directory
+                 alt="Logo"
+               width={250} // width of the image
+               height={80}  // height of the image
+                />
             </Link>
           </div>
           <nav className={open ? "openMenu" : "closeMenu"} onClick={() => setOpen(null)}>

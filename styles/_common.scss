@@ -24,7 +24,7 @@
 .title {
   font-size: $xl-5;
   font-weight: 500;
-  background: $gradient2;
+  background: black;
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -67,9 +67,23 @@
   padding-bottom: $xl-4;
   p {
     margin: $xl-6 0;
+    color: $white;
+  }
+}
+
+
+.contact-tit {
+  text-align: center;
+  max-width: 65%;
+  margin: auto;
+  padding-top: $xll-3;
+  padding-bottom: $xl-4;
+  p {
+    margin: $xl-6 0;
     color: rgba($white, 0.5);
   }
 }
+
 .card {
   h1 {
     transition: 0.5s;

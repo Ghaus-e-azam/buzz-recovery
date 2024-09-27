@@ -8,7 +8,7 @@ const services = () => {
   return (
     <>
       <Head>
-        <title>Our Work</title>
+        <title>Our Work - 24/7 Roadside Assistance</title>
       </Head>
       <div className='heading-title'>
             <Title title='Our Work' />

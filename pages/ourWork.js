@@ -1,4 +1,3 @@
-import Services from "@/sections/Services"
 import Head from "next/head"
 import React from "react"
 import BlogCard from '../components/BlogCard';

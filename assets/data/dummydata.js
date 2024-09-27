@@ -87,15 +87,7 @@ export const testimonial = [
     desc: "Absolute lifesaver! So friendly, looked after my car while loading it on, once arrived at the location sent photos to confirm it was at the right place! Such a lovely guy, will definitely recommend him to anyone…",
   },
 ]
-export const showcase = [
-  {
-    id: 1,
-    
-    cover: "../images/s1.jpg",
-    
-  },
-  
-]
+
 export const brand = [
   {
     id: 1,
@@ -197,53 +189,4 @@ export const blogdata = [
   },
 
 ]
-export const teamdata = [
-  {
-    id: 1,
-    title: "Alexander Black",
-    cover: "../images/t1.jpg",
-    post: "FOUNDER, CEO",
-  },
-  {
-    id: 2,
-    title: "Anna Kovalenko",
-    cover: "../images/t2.jpg",
-    post: "FINANCE DIRECTOR",
-  },
-  {
-    id: 3,
-    title: "Tiffany White",
-    cover: "../images/t3.jpg",
-    post: "CREATIVE DIRECTOR",
-  },
-  {
-    id: 4,
-    title: "Richard Greenwood",
-    cover: "../images/t4.jpg",
-    post: "PROGRAMMER",
-  },
-  {
-    id: 5,
-    title: "Jessica Brown",
-    cover: "../images/t5.jpg",
-    post: "MARKETING DIRECTOR",
-  },
-  {
-    id: 6,
-    title: "Gregory Windstorm",
-    cover: "../images/t6.jpg",
-    post: "ACCOUNTING MANAGER",
-  },
-  {
-    id: 7,
-    title: "Anna Red",
-    cover: "../images/t7.jpg",
-    post: "PROJECT MANAGER",
-  },
-  {
-    id: 8,
-    title: "Join our team!",
-    cover: "../images/t8.jpg",
-    post: "",
-  },
-]
+
